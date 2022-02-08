@@ -12,9 +12,8 @@
 🤾 Playing with Web 3.0 (Solidity,Ethereum,Solana)
 
 <br />
+![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=tayormi&show_icons=true&hide_border=true&theme=dark)
 
-<!-- Discord: https://discord.gg/2RjkTNK -->
-<!-- Twitch: https://www.twitch.tv/ful1e5 -->
 <div align="center" style="display: flex; justify-content: space-between;">
 
   <a href="https://twitter.com/obongowo_eteka">
