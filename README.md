@@ -11,8 +11,10 @@
 
 🤾 Playing with Web 3.0 (Solidity,Ethereum,Solana)
 
-<br />
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=tayormi&show_icons=true&hide_border=true&theme=dark)
+
+<br />
+
 
 <div align="center" style="display: flex; justify-content: space-between;">
 
