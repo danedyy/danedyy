@@ -9,4 +9,3 @@
 
 🧑‍🎓 Bachelor of Computer Science
 
-🤾 Playing with Web 3.0 (Solidity,Ethereum,Solana)
