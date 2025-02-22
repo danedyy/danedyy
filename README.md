@@ -6,6 +6,3 @@
 💼 Full-time programmer
 
 🧑‍🎓 Bachelor of Computer Science
-
-🔗 [Check out my work](http://danedyy.github.io)
-
